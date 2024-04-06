@@ -1,8 +1,11 @@
 [![MasterHead](https://iili.io/JNQJ7Ub.png)](https://github.com/GomesBetaX)
 
-
-![](https://komarev.com/ghpvc/?username=gomesbetax)
+<div style="display: flex; justify-content: center;">
+  <h1>hi</h1>
+</div>
 ![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://iili.io/JNQAXJR.gif">
