@@ -16,8 +16,8 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
 
   <hr>
 
-  <img align="right" alt="Coding" width="400" src="https://iili.io/JNQAXJR.gif" style="text-decoration: none;">
-  <h2>Technologies Stack</h2>
+  <img align="right" alt="Coding" width="400" src="https://iili.io/JNQAXJR.gif">
+  <h2  style="text-decoration: none;">Technologies Stack</h2>
   
 </div>
 
