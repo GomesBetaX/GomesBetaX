@@ -1,8 +1,11 @@
 [![MasterHead](https://iili.io/JNQJ7Ub.png)](https://github.com/GomesBetaX)
 
-<div align="justify">
+<div align="center">
 
-  ![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9290C3&random=false&width=435&lines=In+progress+FullStack+WebDev)](https://git.io/typing-svg)
