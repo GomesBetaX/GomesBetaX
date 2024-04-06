@@ -2,8 +2,9 @@
 
 <div style="display: flex; justify-content: center;">
   <h1>hi</h1>
+  ![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)
 </div>
-![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)
+
 
 
 
