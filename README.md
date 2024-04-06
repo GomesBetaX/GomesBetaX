@@ -36,7 +36,7 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
 
   <h2>GitHub Stats </h2>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gomesbetax&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gomesbetax&theme=radical)](https://git.io/streak-stats)
 
   
 </div>
