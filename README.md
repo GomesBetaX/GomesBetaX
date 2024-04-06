@@ -38,6 +38,8 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gomesbetax&theme=radical)](https://git.io/streak-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesbetax&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesbetax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   
