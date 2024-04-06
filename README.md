@@ -9,7 +9,7 @@
   <hr>
   <p>
 Hi there!  I'm a 25-year-old Brazilian software developer, almost married and always passionate about programming. 🇧🇷
-I hold a Bachelor's degree in System Development and I'm currently expanding my knowledge with an MBA focused on Dev Apps and a FullStack WebDev course on Udemy.
+I hold a Bachelor's degree in System Development and I'm currently expanding my knowledge with an MBA focused on Dev Apps, CS50x from Harvard and a FullStack WebDev course on Udemy.
 I'm open to new challenges and opportunities, so feel free to reach out if you have any part-time openings!</p>
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
@@ -22,6 +22,8 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
   
   
