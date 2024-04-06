@@ -39,9 +39,9 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesbetax&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesbetax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  <hr>
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+  <h3>Quote of the day <img src="https://www.svgrepo.com/show/258726/left-quote-quote.svg"></h3>
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
