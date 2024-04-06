@@ -15,12 +15,12 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9290C3&random=false&width=435&lines=In+progress+FullStack+WebDev)](https://git.io/typing-svg)
 
   <hr>
-
-  <img align="right" alt="Coding" width="400" src="https://iili.io/JNQAXJR.gif">
   <h2  align="center">Technologies Stack</h2>
   
 </div>
 
+
+<img align="right" alt="Coding" width="400" src="https://iili.io/JNQAXJR.gif">
 
 
 
