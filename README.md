@@ -1,12 +1,15 @@
 [![MasterHead](https://iili.io/JNQJ7Ub.png)](https://github.com/GomesBetaX)
 
-<p align="center">
-  hello
-
+<p style="text-align:center"> 
+  
   ![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9290C3&random=false&width=435&lines=In+progress+FullStack+WebDev)](https://git.io/typing-svg)
+
+<p align="center">
+  hello
+</p>
 
 ![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)
 
