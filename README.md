@@ -37,7 +37,8 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
   <h2>GitHub Stats </h2>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gomesbetax&theme=radical)](https://git.io/streak-stats)
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gomesbetax&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesbetax&show_icons=true&theme=radical)
+
 
   
 </div>
