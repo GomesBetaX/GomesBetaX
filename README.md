@@ -1,4 +1,4 @@
-[![MasterHead](https://freeimage.host/i/JNQJ7Ub)](https://github.com/GomesBetaX)
+[![MasterHead](https://iili.io/JNQJ7Ub.png)](https://github.com/GomesBetaX)
 
 <!--
 **GomesBetaX/GomesBetaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
