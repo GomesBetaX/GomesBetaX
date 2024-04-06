@@ -3,10 +3,17 @@
 <div align="center">
 
   <a href="">![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)</a>
-  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
 
 </div>
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/gomesbetax"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ritik307"/>
+
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9290C3&random=false&width=435&lines=In+progress+FullStack+WebDev)](https://git.io/typing-svg)
 
