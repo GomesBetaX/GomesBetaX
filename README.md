@@ -8,7 +8,7 @@
 
   <hr>
   <p>
-Hi there!  I'm a 25-year-old Brazilian software developer, almost married and always passionate about programming. 🇧🇷
+Hi there!  I'm a 25-year-old Brazilian software developer and an English teacher, almost married and always passionate about programming. 🇧🇷
 I hold a Bachelor's degree in System Development and I'm currently expanding my knowledge with an MBA focused on Dev Apps, CS50x from Harvard and a FullStack WebDev course on Udemy.
 I'm open to new challenges and opportunities, so feel free to reach out if you have any part-time openings!</p>
 
@@ -40,10 +40,10 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesbetax&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  <h3>Connect with me:</h3>
+  <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-  <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/diego-gomes-368392173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/teacher_gomes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
   </p>
   
 </div>
