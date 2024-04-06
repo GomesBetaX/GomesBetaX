@@ -1,7 +1,7 @@
 [![MasterHead](https://iili.io/JNQJ7Ub.png)](https://github.com/GomesBetaX)
 
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+![](https://komarev.com/ghpvc/?username=gomesbetax)
 
 
 <img align="right" alt="Coding" width="400" src="https://iili.io/JNQAXJR.gif">
