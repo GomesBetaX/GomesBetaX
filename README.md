@@ -2,6 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=gomesbetax)
+![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)
 
 
 <img align="right" alt="Coding" width="400" src="https://iili.io/JNQAXJR.gif">
