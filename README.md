@@ -15,7 +15,7 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9290C3&random=false&width=435&lines=In+progress+FullStack+WebDev)](https://git.io/typing-svg)
 
   <hr>
-  <h2  align="center" style="border: none;">Technologies Stack</h2>
+  <h2  align="center" style="border-style: none;">Technologies Stack</h2>
   
 </div>
 
