@@ -8,9 +8,7 @@
 
   <p>
 Hi there!  I'm a 25-year-old Brazilian software developer, almost married and always passionate about programming. 🇧🇷
-
 I hold a Bachelor's degree in System Development and I'm currently expanding my knowledge with an MBA focused on Dev Apps and a FullStack WebDev course on Udemy.
-
 I'm open to new challenges and opportunities, so feel free to reach out if you have any part-time openings!</p>
 
 </div>
