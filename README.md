@@ -32,7 +32,6 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
   [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
   [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 
-  <hr>
 
   <h2>GitHub Stats </h2>
   
