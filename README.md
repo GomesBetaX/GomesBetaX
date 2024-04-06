@@ -41,6 +41,7 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
 
 
   <h3>Quote of the day <img src="https://www.svgrepo.com/show/258726/left-quote-quote.svg" height="30" width="30"></h3>
+  
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
