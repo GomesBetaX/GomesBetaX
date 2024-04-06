@@ -1,5 +1,7 @@
 [![MasterHead](https://iili.io/JNQJ7Ub.png)](https://github.com/GomesBetaX)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesbetax)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="right" alt="Coding" width="400" src="https://iili.io/JNQAXJR.gif">
 
 <!--
