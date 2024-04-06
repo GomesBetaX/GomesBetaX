@@ -45,6 +45,7 @@ I'm open to new challenges and opportunities, so feel free to reach out if you h
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
+  <hr>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
