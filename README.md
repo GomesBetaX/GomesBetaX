@@ -3,9 +3,6 @@
 <div align="center">
 
   <a href="">![](https://komarev.com/ghpvc/?username=gomesbetax&color=blueviolet)</a>
-  <img src="https://badges.pufler.dev/repos/gomesbetax"/>
-  <img src="https://badges.pufler.dev/commits/monthly/gomesbetax"/>
-
   <hr>
   <p>
 Hi there!  I'm a 25-year-old Brazilian software developer and an English teacher, almost married and always passionate about programming. 🇧🇷
